@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "cnohall-test-pkg",
   "version": "1.0.0",
   "description": "this is a test node package",
   "main": "index.js",
